@@ -38,4 +38,3 @@ We welcome contributions! If you have suggestions for improvements or have ident
 
 This project is licensed under the MIT License - see the LICENSE.md file for full details.
 
-Thank you for choosing `KYC360-RESTAPI` for your compliance solution needs. We are dedicated to providing the best tools to ensure smooth business operations and adherence to all regulatory requirements.
