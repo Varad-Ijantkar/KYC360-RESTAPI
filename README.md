@@ -24,7 +24,7 @@ For a comprehensive understanding of the API's capabilities, please refer to the
 
 ## Testing
 
-Included is a full suite of test cases to verify the API's functionality. These tests encompass basic CRUD operations, the retry and backoff mechanisms, and more, ensuring the API's reliability in production environments.
+Included is a full suite of test cases to verify the API's functionality. These tests encompass basic CRUD operations, the retry and backoff mechanisms, and more, ensuring the API's reliability in production environments. For a full suite of test cases to verify the API's functionality, please lookup [test_cases](test_cases.md).
 
 ## Contributing
 
