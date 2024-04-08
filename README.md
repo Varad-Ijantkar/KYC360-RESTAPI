@@ -20,7 +20,7 @@ Begin by cloning the `KYC360-RESTAPI` repository and follow the setup instructio
 
 ## Documentation
 
-For a comprehensive understanding of the API's capabilities, please refer to the full [documentation](/KYC360-RESTAPI/documentation.md). It includes quickstart guides, detailed endpoint analysis, and all the information required for effective API utilization.
+For a comprehensive understanding of the API's capabilities, please refer to the full [documentation](/KYC360-RESTAPI/Documentation.md). It includes quickstart guides, detailed endpoint analysis, and all the information required for effective API utilization.
 
 ## Testing
 
